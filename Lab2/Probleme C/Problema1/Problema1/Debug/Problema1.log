@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Rogue EX\Desktop\oop\OOP\Lab2\Probleme C\Problema1\Problema1\header.h(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Rogue EX\Desktop\oop\OOP\Lab2\Probleme C\Problema1\Problema1\main.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Problema1.vcxproj -> C:\Users\Rogue EX\Desktop\oop\OOP\Lab2\Probleme C\Problema1\Debug\Problema1.exe

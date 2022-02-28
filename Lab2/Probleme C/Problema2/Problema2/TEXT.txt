@@ -1,0 +1,2 @@
+Pentru urmatoarele probleme, vom folosi VisualStudio, aplicatiile se vor compila pentru arhitectura target x86, orice proiect trebuie sa aiba macar 1 header si 1 fisier sursa, iar fisierele sursa vor avea extensia cpp, chiar daca problemele sunt C-related.
+Lista de probleme nu contine probleme intr-o ordine a complexitatii si nici intr-o ordine incrementala a tehnologiilor, sunt pur si simplu aleatorii.
